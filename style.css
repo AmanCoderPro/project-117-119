@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 200, 113);
+}
+
+#score {
+    font-size: 24px;
+    margin-left: 55px;
+}
+
+#timer {
+    font-size: 24px;
+    float: right;
+    margin-right: 55px;
+}
+
+#sketch {
+    color: brown;
+}
